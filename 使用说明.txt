@@ -1,0 +1,6 @@
+幻乐之旅 WebGL 网页包
+
+1. 上传时请将本目录中的全部内容一起上传，index.html 必须保持在根目录。
+2. 支持 HTTPS 托管；麦克风检测功能必须通过 HTTPS 或 localhost 才能使用。
+3. 本地预览可双击 index.html；正式测试建议运行 node server.mjs 后打开 http://localhost:5173。
+4. photo 和 audio 文件夹不能改名。
